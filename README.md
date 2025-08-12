@@ -129,7 +129,7 @@ CREATE TABLE users (
 - Input validation prevents common security vulnerabilities
 - Session tokens are used for maintaining user sessions
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This project helps beginners understand:
 
@@ -141,7 +141,7 @@ This project helps beginners understand:
 - **Error Handling**: Implementing proper error messages and user feedback
 - **Session Management**: Maintaining user state across app sessions
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! This project is designed for learning, so improvements and educational enhancements are encouraged.
 
