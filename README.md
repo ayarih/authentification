@@ -1,6 +1,6 @@
 # Authentication Mobile App
 
-A Java-based mobile application demonstrating user authentication fundamentals for beginners.
+A Java based mobile application demonstrating user authentication fundamentals for beginners.
 
 ## Overview
 
