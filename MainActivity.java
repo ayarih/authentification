@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 String userLogin = login.getText().toString();
                 String userPassword = password.getText().toString();
 
-                if (userLogin.equals("hanine") && userPassword.equals("IsetR")) {
+                if (userLogin.equals("etudiant") && userPassword.equals("account2025")) {
                     Toast.makeText(MainActivity.this, "Bon login et mot de passe", Toast.LENGTH_SHORT).show();
                     gotToNextActivity();
                 } else {
